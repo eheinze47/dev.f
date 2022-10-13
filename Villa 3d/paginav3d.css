@@ -1,0 +1,20 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    padding: 2%;
+    background-color: aqua;
+    display: flex;
+    justify-content: flex-end; justify-content: space-around;
+
+}
+
+.aboutme{
+    
+    
+
+
+
+}

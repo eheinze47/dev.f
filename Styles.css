@@ -1,0 +1,61 @@
+.titles{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    width: 100%;
+    color: white;
+
+}
+
+
+
+
+.generos{
+    display: grid;
+    background-color: red;
+    grid-template-columns: auto auto auto auto ;
+    justify-content: center;
+    align-items: center;
+    
+    gap: 200px;
+}
+
+
+.button { 
+    background-color: red;
+    display: flex;
+    justify-content: center; 
+}
+.button-style{
+    
+    border-radius: 20px;
+    font-size: 25px;
+    background-color: darkgoldenrod;
+    height: 100px;
+    width: 200px;
+}
+
+
+
+.img1{
+    border: 10px solid grey;
+    height: 200px;
+    width: 250px;
+    
+}
+.img2{
+    border: 10px solid grey;
+    height: 200px;
+    width: 250px;
+    
+}
+.img3{
+    border: 10px solid grey;
+    height: 200px;
+    width: 250px;
+}
+.img4{
+    border: 10px solid grey;
+    height: 200px;
+    width: 250px;
+}
